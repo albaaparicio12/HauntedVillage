@@ -9,3 +9,5 @@ La planificación, diseño y desarrollo está hecho por mi, con la ayuda de esto
 - Diálogo: https://assetstore.unity.com/packages/tools/utilities/text-to-textmesh-pro-upgrade-tool-176732
 
 Una pequeña review del videojuego: https://youtu.be/PTeTA7hj00o
+
+Link de descarga de la APK: https://unioviedo-my.sharepoint.com/:f:/g/personal/uo269926_uniovi_es/Ei-xbC5UuuFKt_Ddwz-d6m8BGzx1sw5cUKg0TIH5aBRySw?e=jqgALi
